@@ -5,7 +5,7 @@ const MainSection = () => {
   return (
     <>
         <div className='grid grid-cols-2 items-center px-8 md:px-10 lg:px-[110px] mb-10'>
-            <div>
+            <div className='lg:mt-0 mt-10'>
                 <h1 className='text-purple-700 font-bold'>IZOMETRIK XOSTING</h1>
                 <h1 className='text-7xl font-bold line'>Dizayn, Rivojlanish, Xosting </h1>
                 <p className='text-lg mt-1 text-slate-400 w-[370px]'>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>

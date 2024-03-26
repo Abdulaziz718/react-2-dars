@@ -7,8 +7,8 @@
 }
 
 .radius{
-    border-top-left-radius: 50%;
-    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
 }
 
 .left-radius{
