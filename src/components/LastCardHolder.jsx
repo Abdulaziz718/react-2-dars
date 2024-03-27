@@ -11,9 +11,9 @@ const LastCardHolder = () => {
                 <div>
                     <img src={rasm1} alt="" className='aspect-[3.95/2]'/>
                 </div>
-                <div className='flex flex-col gap-3 justify-start items-start p-3'>
+                <div className='flex flex-col gap-3 justify-center items-center p-3'>
                     <h1 className='text-2xl font-bold'>Webni belgilang</h1>
-                    <p className='text-lg w-[400px] text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
+                    <p className='text-lg  text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
                     <button className='bg-cyan-400 text-white border border-cyan-200 rounded-lg px-4 py-1 hover:bg-white hover:text-black transition-all duration-300 mb-4 mt-4'>Go somowhere</button>
                 </div>
             </div>
@@ -21,9 +21,9 @@ const LastCardHolder = () => {
                 <div>
                     <img src={rasm2} alt="" className='aspect-[3.95/2]'/>
                 </div>
-                <div className='flex flex-col gap-3 justify-start items-start p-3'>
+                <div className='flex flex-col gap-3 justify-center items-center p-3'>
                     <h1 className='text-2xl font-bold'>Webni belgilang</h1>
-                    <p className='text-lg w-[400px] text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
+                    <p className='text-lg   text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
                     <button className='bg-cyan-400 text-white border border-cyan-200 rounded-lg px-4 py-1 hover:bg-white hover:text-black transition-all duration-300 mb-4 mt-4'>Go somowhere</button>
                 </div>
             </div>
@@ -31,9 +31,9 @@ const LastCardHolder = () => {
                 <div>
                     <img src={rasm3} alt="" className='aspect-[3.95/2]'/>
                 </div>
-                <div className='flex flex-col gap-3 justify-start items-start p-3'>
+                <div className='flex flex-col gap-3 justify-center items-center p-3'>
                     <h1 className='text-2xl font-bold'>Webni belgilang</h1>
-                    <p className='text-lg w-[400px] text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
+                    <p className='text-lg text-slate-400'>Some quick example text to build on the card title <span className="pr-14">and make up the bulk of the card's content</span></p>
                     <button className='bg-cyan-400 text-white border border-cyan-200 rounded-lg px-4 py-1 hover:bg-white hover:text-black transition-all duration-300 mb-4 mt-4'>Go somowhere</button>
                 </div>
             </div>

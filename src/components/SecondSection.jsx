@@ -3,7 +3,7 @@ import React from 'react'
 const SecondSection = () => {
   return (
     <>
-        <div className="flex flex-col lg:flex-row justify-between items-center px-8 md:px-10 lg:px-[110px] mt-[100px] mb-10">
+        <div className="sm:flex hidden flex-col lg:flex-row justify-between items-center px-8 md:px-10 lg:px-[110px] mt-[100px] mb-10">
             <div className='flex flex-col gap-4'>
                 <h1 className='text-4xl font-bold'>Domen nomingizni qidiring</h1>
                 <p className='text-slate-400'>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>

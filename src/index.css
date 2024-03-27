@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.line{
-    line-height: 100px;
-}
+
 
 .radius{
     border-top-left-radius: 50px;
